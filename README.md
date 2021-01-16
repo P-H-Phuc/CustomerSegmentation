@@ -32,8 +32,8 @@
   
 ## References
 
-  - [1] [F. Daniel Customer Segmentation (September 2017)](http://https://www.kaggle.com/fabiendaniel/customer-segmentation), Kaggle.
+  - [1] [F. Daniel Customer Segmentation](http://https://www.kaggle.com/fabiendaniel/customer-segmentation) (September 2017), Kaggle.
 
-  - [2] [Irfan Alghani Khalid Customer Segmentation in Python](http://https://towardsdatascience.com/customer-segmentation-in-python-9c15acf6f945) (Jan1,2020), Towards Data Science.
+  - [2] [Irfan Alghani Khalid Customer Segmentation in Python](http://https://towardsdatascience.com/customer-segmentation-in-python-9c15acf6f945) (Jan 1, 2020), Towards Data Science.
 
   
